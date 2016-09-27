@@ -64,11 +64,9 @@ int main(){
         // COMPUTER SIDE FUNCTIONALITY
         next_move(root, 0);
 
-        cout << "SCORE :: " << minimax_alpha_beta(root, best, 0, 0, LOWEST_SCORE, HIGHEST_SCORE) << endl;
+        minimax_alpha_beta(root, best, 0, 0, LOWEST_SCORE, HIGHEST_SCORE);
         print_board(best);
 
-        cout << "MOVE  :: " << best->mv << endl;
-        cout << "EVALS :: " << static_evals << endl;
         static_evals = 0;
 
         int a, b;
