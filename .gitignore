@@ -81,4 +81,4 @@ Temporary Items
 cmake-build-debug/
 
 # Jetbrains CLion files
-.idea
+.idea/
