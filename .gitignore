@@ -53,7 +53,6 @@ Temporary Items
 *.slo
 *.lo
 *.o
-*.obj
 
 # Precompiled Headers
 *.gch
@@ -71,10 +70,15 @@ Temporary Items
 # Compiled Static libraries
 *.lai
 *.la
-*.a
 *.lib
 
 # Executables
 *.exe
 *.out
 *.app
+
+# CMake files
+cmake-build-debug/
+
+# Jetbrains CLion files
+.idea
