@@ -11,23 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b968ef8b-3d3e-4ee0-9914-6afdf8c74e59" name="Default" comment="Added files types and directories to .gitignore">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Debug/ChessAI.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/bishop.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/evaluate.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/exec.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/execute.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/king.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/knight.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/main.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/minimax.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/move.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/pawn.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/print.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/queen.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/rook.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/obj/Debug/tree.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="b968ef8b-3d3e-4ee0-9914-6afdf8c74e59" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -360,12 +344,20 @@
       <workItem from="1488144684645" duration="335000" />
       <workItem from="1488773045243" duration="968000" />
       <workItem from="1488774082775" duration="1017000" />
-      <workItem from="1488775122589" duration="238000" />
+      <workItem from="1488775122589" duration="249000" />
     </task>
+    <task id="LOCAL-00001" summary="Added files types and directories to .gitignore">
+      <created>1488775366274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488775366274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3666000" />
+    <option name="totallyTimeSpent" value="3677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
