@@ -1,8 +1,0 @@
-QUEEN:	21 x1	= 21
-ROOK:	14 x2	= 28
-KNIGHT:	8  x2	= 16
-BISHOP:	13 x2	= 26
-KING:	8  x1	= 8
-oPAWN:	2  x8	= 16
----------------------
-TOTAL		= 115 / level
