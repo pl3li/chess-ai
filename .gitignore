@@ -82,3 +82,12 @@ cmake-build-debug/
 
 # Jetbrains CLion files
 .idea/
+
+# Other files/directories
+bin/
+obj/
+*.txt
+*.cbp
+*.depend
+*.layout
+*.png
