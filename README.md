@@ -20,3 +20,7 @@ To Play:
 	- For example, the command `e2e4` will move the King's Pawn 2 spaces forwards
 - The AI will respond accordingly
 - If at any time you wish to quit, type `q` or `quit` in-place of a move command
+
+Example:
+
+![Alt text](img/example.png)
