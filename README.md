@@ -1,5 +1,8 @@
-# ChessAI
-Chess AI in C++ using minimax with alpha-beta pruning
+# [Deprecated] ChessAI
+
+**This repo is deprecated and no longer maintained.**
+
+Chess AI in C++ using minimax with alpha-beta pruning.
 
 To Build and Run:
 
